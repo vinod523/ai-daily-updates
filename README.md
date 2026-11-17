@@ -119,7 +119,7 @@ This measures popularity within those topic searches, not every AI project on Gi
 
 ## Automatic updates
 
-GitHub Actions runs daily around **09:00 Asia/Kolkata (03:30 UTC)**. Scheduled runs can be delayed by GitHub. Use **Actions → Update AI rankings → Run workflow** for a manual refresh. No paid API or personal token is needed: the workflow uses its built-in GitHub token.
+GitHub Actions runs three times daily around **09:00, 15:00, and 21:00 Asia/Kolkata (03:30, 09:30, and 15:30 UTC)**. Scheduled runs can be delayed by GitHub. Use **Actions → Update AI rankings → Run workflow** for a manual refresh. No paid API or personal token is needed: the workflow uses its built-in GitHub token.
 
 The workflow commits only when generated content changes. Failed API requests leave the previous published ranking intact. Public repositories may have scheduled workflows disabled after 60 days without repository activity; re-enable the workflow if needed.
 
