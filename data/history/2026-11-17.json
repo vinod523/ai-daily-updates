@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 19:27:19 UTC",
+  "updated_at": "2026-11-17 19:29:28 UTC",
   "ranking_metric": "stars",
   "topics": [
     "artificial-intelligence",
@@ -13,8 +13,8 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 305306,
-      "forks": 44955,
+      "stars": 305307,
+      "forks": 44956,
       "size_kb": 64399,
       "language": "JavaScript",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
@@ -23,8 +23,8 @@
     {
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "stars": 282925,
-      "forks": 35065,
+      "stars": 282927,
+      "forks": 35066,
       "size_kb": 414344,
       "language": "TypeScript",
       "description": "DeepSeek Harness: Everything is a Plugin.",
@@ -34,7 +34,7 @@
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "stars": 264169,
-      "forks": 59595,
+      "forks": 59597,
       "size_kb": 1508163,
       "language": "Python",
       "description": "The agent that grows with you",
@@ -48,7 +48,7 @@
       "size_kb": 192299,
       "language": "TypeScript",
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "pushed_at": "2026-11-17T19:22:03Z"
+      "pushed_at": "2026-11-17T19:29:12Z"
     },
     {
       "name": "tensorflow/tensorflow",
@@ -58,12 +58,12 @@
       "size_kb": 1438352,
       "language": "C++",
       "description": "An Open Source Machine Learning Framework for Everyone",
-      "pushed_at": "2026-11-17T19:18:57Z"
+      "pushed_at": "2026-11-17T19:29:25Z"
     },
     {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 192874,
+      "stars": 192877,
       "forks": 10828,
       "size_kb": 13130,
       "language": "JavaScript",
@@ -153,7 +153,7 @@
     {
       "name": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "stars": 149785,
+      "stars": 149786,
       "forks": 25151,
       "size_kb": 638453,
       "language": "Python",
@@ -163,7 +163,7 @@
     {
       "name": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "stars": 149553,
+      "stars": 149555,
       "forks": 14373,
       "size_kb": 37900,
       "language": "Python",
@@ -173,7 +173,7 @@
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stars": 144191,
+      "stars": 144192,
       "forks": 23131,
       "size_kb": 541693,
       "language": "Python",
@@ -198,7 +198,7 @@
       "size_kb": 3042528,
       "language": "TypeScript",
       "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-      "pushed_at": "2026-11-17T19:27:41Z"
+      "pushed_at": "2026-11-17T19:29:29Z"
     },
     {
       "name": "microsoft/generative-ai-for-beginners",
@@ -253,7 +253,7 @@
     {
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "stars": 117594,
+      "stars": 117596,
       "forks": 7869,
       "size_kb": 104213,
       "language": "JavaScript",
@@ -298,7 +298,7 @@
       "size_kb": 1725606,
       "language": "Python",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "pushed_at": "2026-11-17T19:21:50Z"
+      "pushed_at": "2026-11-17T19:28:37Z"
     },
     {
       "name": "hacksider/Deep-Live-Cam",
@@ -313,7 +313,7 @@
     {
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 97432,
+      "stars": 97434,
       "forks": 6653,
       "size_kb": 1647144,
       "language": "JavaScript",
@@ -373,7 +373,7 @@
     {
       "name": "cheaper-inference/OmniRoute",
       "url": "https://github.com/cheaper-inference/OmniRoute",
-      "stars": 88360,
+      "stars": 88362,
       "forks": 13582,
       "size_kb": 3608261,
       "language": "TypeScript",
@@ -383,7 +383,7 @@
     {
       "name": "unclecode/crawl4ai",
       "url": "https://github.com/unclecode/crawl4ai",
-      "stars": 87479,
+      "stars": 87480,
       "forks": 9124,
       "size_kb": 151980,
       "language": "Python",
@@ -413,12 +413,12 @@
     {
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
-      "stars": 85869,
+      "stars": 85870,
       "forks": 7957,
       "size_kb": 544852,
       "language": "TypeScript",
       "description": "Write HTML. Render video. Built for agents.",
-      "pushed_at": "2026-11-17T19:26:55Z"
+      "pushed_at": "2026-11-17T19:28:17Z"
     },
     {
       "name": "bytedance/deer-flow",
@@ -463,7 +463,7 @@
     {
       "name": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
-      "stars": 81949,
+      "stars": 81950,
       "forks": 9668,
       "size_kb": 666844,
       "language": "TypeScript",
@@ -534,17 +534,17 @@
       "name": "unslothai/unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "stars": 79696,
-      "forks": 7442,
+      "forks": 7443,
       "size_kb": 707182,
       "language": "Python",
       "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
-      "pushed_at": "2026-11-17T19:26:54Z"
+      "pushed_at": "2026-11-17T19:29:15Z"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 79273,
-      "forks": 14145,
+      "forks": 14144,
       "size_kb": 196385,
       "language": "Python",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
@@ -623,7 +623,7 @@
     {
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "stars": 73054,
+      "stars": 73055,
       "forks": 57775,
       "size_kb": 122710,
       "language": "Python",
@@ -683,7 +683,7 @@
     {
       "name": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
-      "stars": 70287,
+      "stars": 70288,
       "forks": 5520,
       "size_kb": 351,
       "language": "Python",
@@ -693,7 +693,7 @@
     {
       "name": "shanraisshan/claude-code-best-practice",
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "stars": 69163,
+      "stars": 69164,
       "forks": 6878,
       "size_kb": 77057,
       "language": "HTML",
@@ -743,7 +743,7 @@
     {
       "name": "jingyaogong/minimind",
       "url": "https://github.com/jingyaogong/minimind",
-      "stars": 65830,
+      "stars": 65833,
       "forks": 8645,
       "size_kb": 39476,
       "language": "Python",
@@ -798,12 +798,12 @@
       "size_kb": 3033725,
       "language": "Python",
       "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "pushed_at": "2026-11-17T19:23:32Z"
+      "pushed_at": "2026-11-17T19:29:34Z"
     },
     {
       "name": "crewAIInc/crewAI",
       "url": "https://github.com/crewAIInc/crewAI",
-      "stars": 61031,
+      "stars": 61032,
       "forks": 9214,
       "size_kb": 307853,
       "language": "Python",
@@ -813,7 +813,7 @@
     {
       "name": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars": 61005,
+      "stars": 61006,
       "forks": 8886,
       "size_kb": 6728,
       "language": "JavaScript",
@@ -918,7 +918,7 @@
       "size_kb": 997608,
       "language": "Rust",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "pushed_at": "2026-11-17T19:25:21Z"
+      "pushed_at": "2026-11-17T19:28:56Z"
     },
     {
       "name": "CherryHQ/cherry-studio",
@@ -973,7 +973,7 @@
     {
       "name": "mudler/LocalAI",
       "url": "https://github.com/mudler/LocalAI",
-      "stars": 50419,
+      "stars": 50420,
       "forks": 4615,
       "size_kb": 225105,
       "language": "Go",
