@@ -2,7 +2,7 @@
 
 A daily ranking of popular public AI repositories, ordered by GitHub stars.
 
-Last successful refresh: **2026-11-18 22:38:30 UTC**.
+Last successful refresh: **2026-11-19 11:56:19 UTC**.
 
 ## Ranking
 
@@ -10,106 +10,106 @@ Star change compares with the previous successful daily snapshot. New entries sh
 
 | Rank | Repository | Stars | Change | Forks | Size (MiB) | Language |
 | ---: | --- | ---: | ---: | ---: | ---: | --- |
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 306,449 | +1,142 | 45,114 | 62.9 | JavaScript |
-| 2 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 283,596 | +669 | 35,185 | 404.5 | TypeScript |
-| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 264,488 | +319 | 59,703 | 1,485.0 | Python |
-| 4 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 203,114 | +528 | 10,638 | 188.3 | TypeScript |
-| 5 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 201,604 | -180 | 77,961 | 1,409.6 | C++ |
-| 6 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 193,983 | +1,106 | 10,918 | 12.8 | JavaScript |
-| 7 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 188,091 | +14 | 45,863 | 649.6 | Python |
-| 8 | [ollama/ollama](https://github.com/ollama/ollama) | 187,564 | +152 | 19,145 | 95.5 | Go |
-| 9 | [f/prompts.chat](https://github.com/f/prompts.chat) | 177,807 | +54 | 22,673 | 932.7 | MDX |
-| 10 | [huggingface/transformers](https://github.com/huggingface/transformers) | 169,218 | -111 | 35,230 | 557.7 | Python |
-| 11 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 165,336 | +9 | 31,114 | 35.7 | Python |
-| 12 | [langgenius/dify](https://github.com/langgenius/dify) | 161,441 | +73 | 25,527 | 705.1 | Python |
-| 13 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 159,040 | +93 | 23,112 | 583.5 | Svelte |
-| 14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 156,749 | +25 | 10,431 | 1,704.0 | Python |
-| 15 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 150,142 | +587 | 14,425 | 35.7 | Python |
-| 16 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 149,867 | +81 | 25,162 | 626.3 | Python |
-| 17 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 144,481 | +289 | 23,199 | 528.9 | Python |
-| 18 | [stablyai/orca](https://github.com/stablyai/orca) | 128,836 | +1,151 | 8,165 | 3,011.4 | TypeScript |
-| 19 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 128,490 | +76 | 11,422 | 73.1 | TypeScript |
-| 20 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 123,815 | +64 | 66,656 | 6,494.9 | Jupyter Notebook |
-| 21 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 123,072 | +121 | 23,598 | 6.6 | Python |
-| 22 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 121,438 | +129 | 13,576 | 42.8 | Python |
-| 23 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 121,302 | +284 | 7,094 | 22.6 | Go |
-| 24 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 118,389 | +793 | 7,923 | 101.8 | JavaScript |
-| 25 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 118,224 | +275 | 10,277 | 891.5 | TypeScript |
-| 26 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 114,807 | +269 | 19,064 | 550.2 | TypeScript |
-| 27 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 108,924 | +25 | 14,961 | 103.1 | TypeScript |
-| 28 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 108,622 | +59 | 16,803 | 16.7 | Jupyter Notebook |
-| 29 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 105,669 | -155 | 30,755 | 1,690.1 | Python |
-| 30 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 98,248 | +40 | 14,333 | 152.7 | Python |
-| 31 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 97,728 | +294 | 6,674 | 1,616.0 | JavaScript |
-| 32 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 97,180 | +70 | 24,989 | 360.5 | Python |
-| 33 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 94,391 | +72 | 11,346 | 191.4 | Go |
-| 34 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 93,764 | +106 | 12,557 | 692.7 | TypeScript |
-| 35 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 92,320 | +28 | 22,946 | 2,222.8 | Jupyter Notebook |
-| 36 | [opencv/opencv](https://github.com/opencv/opencv) | 91,632 | +16 | 57,106 | 558.9 | C++ |
-| 37 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 88,673 | +311 | 13,673 | 3,511.8 | TypeScript |
-| 38 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 87,532 | +52 | 9,130 | 148.4 | Python |
-| 39 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 87,330 | +95 | 10,918 | 311.1 | Python |
-| 40 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 87,090 | +175 | 5,593 | 19.6 | Rust |
-| 41 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 86,506 | +636 | 8,030 | 535.1 | TypeScript |
-| 42 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 85,494 | +49 | 12,059 | 104.8 | Python |
-| 43 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 85,157 | +10 | 9,901 | 7.5 | — |
-| 44 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 84,883 | +7 | 11,665 | 1.2 | — |
-| 45 | [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 82,583 | +23 | 12,488 | 309.5 | Python |
-| 46 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 82,051 | +101 | 9,686 | 652.1 | TypeScript |
-| 47 | [netdata/netdata](https://github.com/netdata/netdata) | 81,465 | +16 | 6,739 | 338.6 | Go |
-| 48 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 80,603 | +56 | 12,887 | 6.5 | Python |
-| 49 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 80,367 | +430 | 26,255 | 3,720.7 | Jupyter Notebook |
-| 50 | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 80,197 | +39 | 8,788 | 80.8 | MDX |
-| 51 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 80,100 | +192 | 6,281 | 104.5 | Python |
-| 52 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 79,816 | +93 | 9,786 | 3.6 | Python |
-| 53 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 79,767 | +1,297 | 2,247 | 220.3 | JavaScript |
-| 54 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 79,746 | +50 | 7,442 | 701.8 | Python |
-| 55 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 79,510 | +237 | 14,198 | 192.3 | Python |
-| 56 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 77,582 | +21 | 10,921 | 54.0 | C++ |
-| 57 | [usestrix/strix](https://github.com/usestrix/strix) | 76,513 | +223 | 8,698 | 18.0 | Python |
-| 58 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 76,109 | +20 | 9,390 | 14.0 | Python |
-| 59 | [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | 75,867 | +32 | 7,252 | 1.6 | — |
-| 60 | [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) | 75,533 | +39 | 7,905 | 2,382.8 | Python |
-| 61 | [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 74,774 | +13 | 6,783 | 8.2 | MDX |
-| 62 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 73,331 | +276 | 57,884 | 120.7 | Python |
-| 63 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | 72,440 | +184 | 23,272 | 5.7 | Python |
-| 64 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 71,693 | +68 | 11,530 | 24.9 | Python |
-| 65 | [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 71,347 | +18 | 9,114 | 179.7 | Python |
-| 66 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 71,011 | +33 | 13,848 | 1,365.2 | Jupyter Notebook |
-| 67 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 70,995 | +20 | 5,846 | 583.3 | TypeScript |
-| 68 | [blader/humanizer](https://github.com/blader/humanizer) | 70,804 | +516 | 5,557 | 0.3 | Python |
-| 69 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 69,210 | +46 | 6,882 | 75.3 | HTML |
-| 70 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 69,197 | +73 | 8,233 | 68.0 | Python |
-| 71 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 68,403 | +28 | 7,732 | 94.2 | JavaScript |
-| 72 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 68,234 | +17 | 27,688 | 183.7 | Python |
-| 73 | [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 67,773 | +6 | 6,789 | 152.7 | Python |
-| 74 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 66,486 | +653 | 8,722 | 38.6 | Python |
-| 75 | [upstash/context7](https://github.com/upstash/context7) | 65,082 | +75 | 3,271 | 49.7 | TypeScript |
-| 76 | [keras-team/keras](https://github.com/keras-team/keras) | 64,428 | +3 | 19,815 | 58.0 | Python |
-| 77 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 63,724 | +27 | 24,924 | 33.6 | Python |
-| 78 | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 63,563 | +28 | 12,022 | 66.1 | Python |
-| 79 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 63,501 | +72 | 13,399 | 2,985.8 | Python |
-| 80 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 61,241 | +235 | 8,933 | 6.6 | JavaScript |
-| 81 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 61,085 | +53 | 9,224 | 300.7 | Python |
-| 82 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 60,608 | +11 | 7,675 | 33.2 | Python |
-| 83 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 60,463 | +443 | 7,319 | 256.7 | Python |
-| 84 | [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | 60,247 | -1 | 9,376 | 361.1 | Python |
-| 85 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 58,699 | +156 | 6,871 | 777.1 | Python |
-| 86 | [pathwaycom/serviette](https://github.com/pathwaycom/serviette) | 58,699 | -8 | 1,549 | 66.3 | Python |
-| 87 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 58,303 | +72 | 4,975 | 36.1 | Python |
-| 88 | [ultralytics/yolov5](https://github.com/ultralytics/yolov5) | 58,289 | +5 | 17,431 | 17.6 | Python |
-| 89 | [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | 57,611 | +0 | 13,414 | 200.6 | Python |
-| 90 | [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) | 56,909 | +4 | 13,655 | 101.5 | Python |
-| 91 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 56,764 | +42 | 6,620 | 974.0 | Rust |
-| 92 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 53,632 | +34 | 5,235 | 868.2 | TypeScript |
-| 93 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 52,946 | +17 | 8,583 | 516.8 | Python |
-| 94 | [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 52,075 | +2 | 11,625 | 10.7 | — |
-| 95 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | 51,740 | +169 | 4,188 | 48.5 | Rust |
-| 96 | [roboflow/supervision](https://github.com/roboflow/supervision) | 51,671 | +13 | 4,959 | 4,782.1 | Python |
-| 97 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 50,439 | +19 | 4,617 | 245.5 | Go |
-| 98 | [microsoft/qlib](https://github.com/microsoft/qlib) | 50,392 | +29 | 7,954 | 18.1 | Python |
-| 99 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 50,189 | +37 | 8,761 | 86.0 | Python |
-| 100 | [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) | 50,085 | +7 | 7,823 | 3.4 | Jupyter Notebook |
+| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 306,913 | +464 | 45,181 | 62.9 | JavaScript |
+| 2 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 284,013 | +417 | 35,270 | 404.5 | TypeScript |
+| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 264,635 | +147 | 59,747 | 1,485.2 | Python |
+| 4 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 203,535 | +421 | 10,662 | 188.0 | TypeScript |
+| 5 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 201,624 | +20 | 77,970 | 1,411.7 | C++ |
+| 6 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 194,529 | +546 | 10,964 | 12.8 | JavaScript |
+| 7 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 188,100 | +9 | 45,856 | 655.2 | Python |
+| 8 | [ollama/ollama](https://github.com/ollama/ollama) | 187,592 | +28 | 19,156 | 95.6 | Go |
+| 9 | [f/prompts.chat](https://github.com/f/prompts.chat) | 177,871 | +64 | 22,678 | 933.0 | MDX |
+| 10 | [huggingface/transformers](https://github.com/huggingface/transformers) | 169,245 | +27 | 35,245 | 557.4 | Python |
+| 11 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 165,343 | +7 | 31,108 | 35.7 | Python |
+| 12 | [langgenius/dify](https://github.com/langgenius/dify) | 161,486 | +45 | 25,527 | 709.6 | Python |
+| 13 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 159,078 | +38 | 23,107 | 583.5 | Svelte |
+| 14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 156,773 | +24 | 10,433 | 1,703.8 | Python |
+| 15 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 150,387 | +245 | 14,459 | 35.7 | Python |
+| 16 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 149,887 | +20 | 25,155 | 628.0 | Python |
+| 17 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 144,625 | +144 | 23,242 | 528.9 | Python |
+| 18 | [stablyai/orca](https://github.com/stablyai/orca) | 129,364 | +528 | 8,217 | 3,041.8 | TypeScript |
+| 19 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 128,548 | +58 | 11,425 | 73.1 | TypeScript |
+| 20 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 123,850 | +35 | 66,697 | 6,495.0 | Jupyter Notebook |
+| 21 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 123,129 | +57 | 23,604 | 6.6 | Python |
+| 22 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 121,476 | +38 | 13,574 | 42.1 | Python |
+| 23 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 121,424 | +122 | 7,100 | 22.6 | Go |
+| 24 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 118,698 | +309 | 7,940 | 101.8 | JavaScript |
+| 25 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 118,324 | +100 | 10,291 | 892.0 | TypeScript |
+| 26 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 114,952 | +145 | 19,089 | 551.5 | TypeScript |
+| 27 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 108,938 | +14 | 14,962 | 103.2 | TypeScript |
+| 28 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 108,652 | +30 | 16,807 | 16.7 | Jupyter Notebook |
+| 29 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 105,676 | +7 | 30,764 | 1,680.5 | Python |
+| 30 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 98,257 | +9 | 14,335 | 152.7 | Python |
+| 31 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 97,915 | +187 | 6,686 | 1,630.8 | JavaScript |
+| 32 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 97,201 | +21 | 25,011 | 361.5 | Python |
+| 33 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 94,430 | +39 | 11,351 | 191.3 | Go |
+| 34 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 93,817 | +53 | 12,559 | 693.3 | TypeScript |
+| 35 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 92,330 | +10 | 22,944 | 2,222.8 | Jupyter Notebook |
+| 36 | [opencv/opencv](https://github.com/opencv/opencv) | 91,643 | +11 | 57,109 | 559.3 | C++ |
+| 37 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 88,802 | +129 | 13,699 | 3,524.7 | TypeScript |
+| 38 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 87,554 | +22 | 9,131 | 148.4 | Python |
+| 39 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 87,399 | +69 | 10,929 | 311.1 | Python |
+| 40 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 87,151 | +61 | 5,598 | 19.5 | Rust |
+| 41 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 86,773 | +267 | 8,061 | 534.0 | TypeScript |
+| 42 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 85,517 | +23 | 12,067 | 105.0 | Python |
+| 43 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 85,156 | -1 | 9,903 | 7.5 | — |
+| 44 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 84,885 | +2 | 11,665 | 1.2 | — |
+| 45 | [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 82,588 | +5 | 12,488 | 309.5 | Python |
+| 46 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 82,074 | +23 | 9,686 | 652.0 | TypeScript |
+| 47 | [netdata/netdata](https://github.com/netdata/netdata) | 81,476 | +11 | 6,740 | 338.6 | Go |
+| 48 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 80,638 | +35 | 12,891 | 6.5 | Python |
+| 49 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 80,538 | +771 | 2,271 | 220.3 | JavaScript |
+| 50 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 80,446 | +79 | 26,293 | 3,720.7 | Jupyter Notebook |
+| 51 | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 80,204 | +7 | 8,789 | 80.8 | MDX |
+| 52 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 80,134 | +34 | 6,282 | 104.8 | Python |
+| 53 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 79,856 | +40 | 9,793 | 3.6 | Python |
+| 54 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 79,772 | +26 | 7,446 | 714.2 | Python |
+| 55 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 79,561 | +51 | 14,212 | 192.3 | Python |
+| 56 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 77,586 | +4 | 10,921 | 54.0 | C++ |
+| 57 | [usestrix/strix](https://github.com/usestrix/strix) | 76,613 | +100 | 8,723 | 18.2 | Python |
+| 58 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 76,134 | +25 | 9,391 | 14.0 | Python |
+| 59 | [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | 75,876 | +9 | 7,251 | 1.6 | — |
+| 60 | [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) | 75,559 | +26 | 7,904 | 2,382.8 | Python |
+| 61 | [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 74,779 | +5 | 6,785 | 8.2 | MDX |
+| 62 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 73,448 | +117 | 57,934 | 120.7 | Python |
+| 63 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | 72,516 | +76 | 23,286 | 5.7 | Python |
+| 64 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 71,717 | +24 | 11,532 | 25.5 | Python |
+| 65 | [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 71,355 | +8 | 9,116 | 179.7 | Python |
+| 66 | [blader/humanizer](https://github.com/blader/humanizer) | 71,038 | +234 | 5,567 | 0.3 | Python |
+| 67 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 71,022 | +11 | 13,848 | 1,365.2 | Jupyter Notebook |
+| 68 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 70,995 | +0 | 5,846 | 593.6 | TypeScript |
+| 69 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 69,239 | +42 | 8,237 | 68.0 | Python |
+| 70 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 69,219 | +9 | 6,885 | 75.7 | HTML |
+| 71 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 68,428 | +25 | 7,734 | 94.2 | JavaScript |
+| 72 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 68,240 | +6 | 27,689 | 184.0 | Python |
+| 73 | [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 67,775 | +2 | 6,790 | 152.7 | Python |
+| 74 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 66,612 | +126 | 8,755 | 38.6 | Python |
+| 75 | [upstash/context7](https://github.com/upstash/context7) | 65,105 | +23 | 3,272 | 49.8 | TypeScript |
+| 76 | [keras-team/keras](https://github.com/keras-team/keras) | 64,426 | -2 | 19,816 | 58.3 | Python |
+| 77 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 63,739 | +15 | 24,930 | 33.6 | Python |
+| 78 | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 63,589 | +26 | 12,026 | 66.2 | Python |
+| 79 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 63,536 | +35 | 13,414 | 3,015.9 | Python |
+| 80 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 61,373 | +132 | 8,948 | 6.6 | JavaScript |
+| 81 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 61,100 | +15 | 9,227 | 301.6 | Python |
+| 82 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 60,688 | +225 | 7,348 | 256.7 | Python |
+| 83 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 60,617 | +9 | 7,674 | 33.2 | Python |
+| 84 | [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | 60,245 | -2 | 9,375 | 361.1 | Python |
+| 85 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 58,795 | +96 | 6,889 | 777.1 | Python |
+| 86 | [pathwaycom/serviette](https://github.com/pathwaycom/serviette) | 58,698 | -1 | 1,549 | 66.3 | Python |
+| 87 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 58,346 | +43 | 4,977 | 36.1 | Python |
+| 88 | [ultralytics/yolov5](https://github.com/ultralytics/yolov5) | 58,293 | +4 | 17,433 | 17.6 | Python |
+| 89 | [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | 57,613 | +2 | 13,414 | 200.6 | Python |
+| 90 | [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) | 56,911 | +2 | 13,655 | 101.5 | Python |
+| 91 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 56,783 | +19 | 6,623 | 973.8 | Rust |
+| 92 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 53,656 | +24 | 5,237 | 870.7 | TypeScript |
+| 93 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 52,953 | +7 | 8,588 | 516.8 | Python |
+| 94 | [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 52,076 | +1 | 11,625 | 10.7 | — |
+| 95 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | 51,832 | +92 | 4,193 | 48.5 | Rust |
+| 96 | [roboflow/supervision](https://github.com/roboflow/supervision) | 51,674 | +3 | 4,959 | 4,782.1 | Python |
+| 97 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 50,446 | +7 | 4,618 | 242.5 | Go |
+| 98 | [microsoft/qlib](https://github.com/microsoft/qlib) | 50,412 | +20 | 7,955 | 18.1 | Python |
+| 99 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 50,201 | +12 | 8,764 | 86.8 | Python |
+| 100 | [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) | 50,090 | +5 | 7,823 | 3.4 | Jupyter Notebook |
 
 ## Methodology
 
